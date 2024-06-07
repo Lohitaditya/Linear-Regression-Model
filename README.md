@@ -8,4 +8,4 @@ Afterward, I implemented a linear regression model using the Scikit-learn librar
 
 This project helped me develop skills in data cleaning, exploratory data analysis, machine learning, and web development. It also allowed me to gain experience in project management, as I had to plan and execute the project from start to finish.
 
-If you want to see my source code, you can visit 
+If you want to see my source code, you can visit https://github.com/Lohitaditya/Linear-Regression-Model/tree/main
